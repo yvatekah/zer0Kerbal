@@ -40,7 +40,7 @@ Note: Even though you will appear to be editing the project's files, don't worry
   * ![Polski][PO] Polish (Polski) <pl.cfg>
   * ![Русский][RU] Russian (Русский) <ru.cfg>
   * ![Svenska][SW] Swedish (Svenska) <sw-sw.cfg>
-  * ![国语][TW]] Taiwanese (国语) <zh-tw.cfg>
+  * ![國語][TW]] Taiwanese (國語) <zh-tw.cfg>
 
 ## Creating or editing a translation
 
